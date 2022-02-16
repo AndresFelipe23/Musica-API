@@ -1,0 +1,27 @@
+[
+    {
+        "cancion": "la cancion",
+        "cantante": "bad bunny",
+        "id": 1
+    },
+    {
+        "cancion": "si estuviesemos juntos",
+        "cantante": "bad bunny",
+        "id": 2
+    },
+    {
+        "cancion": "salio el sol",
+        "cantante": "don omar",
+        "id": 3
+    },
+    {
+        "cancion": "guaya guaya",
+        "cantante": "don omar",
+        "id": 4
+    },
+    {
+        "cancion": "pegame tu vicio",
+        "cantante": "eddy herrera",
+        "id": 5
+    }
+]

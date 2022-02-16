@@ -1,0 +1,28 @@
+[
+    {
+        "genero": "reggaeton",
+        "album": "oasis",
+        "id":1
+
+    },
+    {
+        "genero": "reggaeton",
+        "album": "x 100pre",
+        "id":2
+    },
+    {
+        "genero": "reggaeton",
+        "album": "king of kings",
+        "id":3
+    },
+    {
+        "genero": "reggaeton",
+        "album": "the last don 2",
+        "id":4
+    },
+    {
+        "genero": "pegame tu vicio",
+        "album": "eddy herrera",
+        "id":"5"
+    }
+]

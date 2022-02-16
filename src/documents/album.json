@@ -1,0 +1,35 @@
+[
+    {
+        "cancion": "la cancion",
+        "cantante": "bad bunny",
+        "publicacion": "2019",
+        "id":1
+    },
+    {
+        "cancion": "si estuvieramos juntos",
+        "cantante": "bad bunny",
+        "publicacion": "2018",
+        "id": 2
+
+    },
+    {
+        "cancion": "salio el sol",
+        "cantante": "don omar",
+        "publicacion": "2006",
+        "id":3
+
+    },
+    {
+        "cancion": "guaya guaya",
+        "cantante": "don omar",
+        "publicacion": "2015",
+        "id":4
+    },
+    {
+        "cancion": "pegame tu vicio",
+        "cantante": "eddy herrera",
+        "publicacion": "2000",
+        "id":5
+        
+    }
+]
