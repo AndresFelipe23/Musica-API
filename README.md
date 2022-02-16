@@ -8,7 +8,7 @@ ESTUDIANTES
 - Laura Pino
 - Jesús Causil 
 
-Trabajo final 
+
 Este trabajo se realizó usando node.js, express y postman, este trabajo consiste en tres archivos .json están una serie de datos los cuales vamos a ver reflejados en el navegador estos datos se podrán modificar usando postman con métodos como PUT, POST y DELETE.
 
 - Para ejecutar el proyecto inicie instalando el paquete de node_modules (npm i) y después ejecútelo usando (node src/código).
